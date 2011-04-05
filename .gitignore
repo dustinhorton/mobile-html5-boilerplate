@@ -27,6 +27,7 @@ dwsync.xml
 
 # Espresso
 *.esproj
+*.esproj/*
 
 # Folders to ignore
 .hg
