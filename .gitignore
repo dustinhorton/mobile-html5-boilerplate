@@ -26,7 +26,7 @@ dwsync.xml
 .komodotools
 
 # Espresso
-*.esproj
+_mobile.esproj
 
 # Folders to ignore
 .hg
